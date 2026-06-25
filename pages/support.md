@@ -10,13 +10,13 @@ title: Support
 ## Community Support
 
 If you need help, we encourage you to join fellow users in the
-[Ubuntu MATE Community](https://ubuntu-mate.community/). If this is your
+[Ubuntu MATE Community](https://discourse.ubuntu.com/c/flavors/ubuntu-mate/191). If this is your
 first time, you'll need to create a new account using the **Sign Up**
 button in the upper right hand corner. Once you have an account, post
-your issue in [Support and Help Requests](https://ubuntu-mate.community/c/support/10). Be detailed with
+your issue in [Support and Help](https://discourse.ubuntu.com/c/support-and-help/306). Be detailed with
 your description of the problem and be excellent to each other.
 
-[ubuntu-mate.community](https://ubuntu-mate.community){:.btn .green}
+[Ubuntu MATE Community on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntu-mate/191){:.btn .green}
 [Ubuntu MATE General Chat on Matrix](https://matrix.to/#/#ubuntu-mate-general:ubuntu.com){:.btn}
 [Ubuntu MATE Development Chat on Matrix](https://matrix.to/#/#ubuntu-mate-development:ubuntu.com){:.btn}
 
