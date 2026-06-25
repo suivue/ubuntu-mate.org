@@ -20,6 +20,9 @@ your description of the problem and be excellent to each other.
 [Ubuntu MATE General Chat on Matrix](https://matrix.to/#/#ubuntu-mate-general:ubuntu.com){:.btn}
 [Ubuntu MATE Development Chat on Matrix](https://matrix.to/#/#ubuntu-mate-development:ubuntu.com){:.btn}
 
+Between 2015 and 2026, our community was previously hosted at [ubuntu-mate.community](https://ubuntu-mate.community),
+which is now archived.
+
 ## Official Guide
 
 If this is your first time using Ubuntu MATE, we have an official guide
