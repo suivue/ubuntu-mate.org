@@ -94,7 +94,7 @@ pre-installed and allows you to perform checksums from within the file browser.
 
 * Navigate to the file in the Caja file manager.
 * Right click the file and choose **Properties**.
-* Open the **Digests** tab.
+* Open the **Checksums** tab. Depending on the file size it may take a while for the digests to be displayed.
 * Copy the SHA256SUM checksum from the download page and paste into **Check** field. The green check mark means the download is verified.
 
     ![Check SHA256 Hash](/images/faq/verify/Check-SHA256-Hash.png)
